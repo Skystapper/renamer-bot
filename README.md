@@ -1,6 +1,6 @@
 ## Telegram Rename Bot 
 
-I would like to thank @coderboy1952 (Rajnish Singh) for providing this repo.
+I would like to thank [Rajnish Singh](https://github.com/coderboy1952) for providing this repo.
 
 ---
 Rename any Telegram Files with Permanent Thumbnail Support'

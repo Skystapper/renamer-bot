@@ -1,6 +1,6 @@
 ## Telegram Rename Bot 
 
-This Bot is made by Rajnish Singh.
+I would like to thank @coderboy1952 (Rajnish Singh) for providing this repo.
 
 ---
 Rename any Telegram Files with Permanent Thumbnail Support'
